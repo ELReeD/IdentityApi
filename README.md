@@ -1,5 +1,4 @@
 # IdentityApi
-Identity API 
 
 Used JWT
 
